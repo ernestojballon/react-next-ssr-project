@@ -1,0 +1,21 @@
+{
+  "name": "next-project",
+  "version": "1.0.0",
+  "description": "next basic project ssr react",
+  "main": "app/index.js",
+  "scripts": {
+    "dev": "next",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.11.22",
+    "@types/react": "^18.2.60",
+    "isomorphic-fetch": "^3.0.0",
+    "next": "^14.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "typescript": "^5.3.3"
+  }
+}
